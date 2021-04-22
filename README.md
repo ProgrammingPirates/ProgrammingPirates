@@ -15,7 +15,8 @@
 
 <h2>Images on Another Server</h2>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3641004-Coding-Animation&psig=AOvVaw15VLsNvT4EBLkfEiqg2YRF&ust=1619170831480000&source=images&cd=vfe&ved=2ahUKEwimt5nDx5HwAhWuArcAHUPgA8gQjRx6BAgAEAc" alt="W3Schools.com" style="width:104px;height:142px;">
+<img src="
+   https://images.app.goo.gl/T5XkG28iriDq4p6Y7" alt="W3Schools.com" style="width:104px;height:142px;">
 
 </body>
 </html>
