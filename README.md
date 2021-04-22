@@ -3,6 +3,15 @@
 - 🌱 I’m currently learning React JS,Game Development(Unity,Unreal Engine),C,C++,Java,Python,Javascript and more......
 - 📫 How to reach me Youtube Channel:https://www.youtube.com/c/ProgrammingPirates
 
+<html>
+<body>
+
+<h1>HTML Links</h1>
+
+<p><a href="https://images.app.goo.gl/T5XkG28iriDq4p6Y7">Visit W3Schools.com!</a></p>
+
+</body>
+</html>
 
 
 
@@ -10,16 +19,6 @@
 
 
  
-<html>
-<body>
-
-<h2>Images on Another Server</h2>
-
-<img src="
-   https://images.app.goo.gl/T5XkG28iriDq4p6Y7" alt="W3Schools.com" style="width:104px;height:142px;">
-
-</body>
-</html>
 
 
 
