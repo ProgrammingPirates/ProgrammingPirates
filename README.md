@@ -16,12 +16,14 @@ http://gph.is/1ECHRQ9
 
 https://media.giphy.com/media/10ks5XPLTZef4c/giphy.gif
 
- 
 <html>
 <body>
 
-<h2>HTML Image</h2>
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=506936501809850870" height="648" width="600" frameborder="0" scrolling="no" ></iframe>
+<h2>Image as a Link</h2>
+
+<p>The image below is a link. Try to click on it.</p>
+
+<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>
 
 </body>
 </html>
