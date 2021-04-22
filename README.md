@@ -8,7 +8,7 @@
 
 
 
-<a href="https://images.app.goo.gl/k4vFAh8HGg7qKDkZ8"><img src="https://images.app.goo.gl/k4vFAh8HGg7qKDkZ8.gif" title=""></a>
+<a href=""><img src="https://images.app.goo.gl/k4vFAh8HGg7qKDkZ8.gif" title=""></a>
 
 
 
