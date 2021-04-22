@@ -8,7 +8,7 @@
 
 
 
-<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3641004-Coding-Animation&psig=AOvVaw15VLsNvT4EBLkfEiqg2YRF&ust=1619170831480000&source=images&cd=vfe&ved=2ahUKEwimt5nDx5HwAhWuArcAHUPgA8gQjRx6BAgAEAc"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3641004-Coding-Animation&psig=AOvVaw15VLsNvT4EBLkfEiqg2YRF&ust=1619170831480000&source=images&cd=vfe&ved=2ahUKEwimt5nDx5HwAhWuArcAHUPgA8gQjRx6BAgAEAc.gif" alt="HTML tutorial" title=""></a>
+<a href="https://images.app.goo.gl/k4vFAh8HGg7qKDkZ8"><img src="https://images.app.goo.gl/k4vFAh8HGg7qKDkZ8.gif" title=""></a>
 
 
 
