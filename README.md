@@ -4,18 +4,12 @@
 - 📫 How to reach me Youtube Channel:https://www.youtube.com/c/ProgrammingPirates
 
 
-   https://images.app.goo.gl/T5XkG28iriDq4p6Y7
 
 
 
 
 
-  
-
-
-![image](https://user-images.githubusercontent.com/78801686/115692902-07152d80-a37d-11eb-987d-64752086858c.png)
-
-
+ 
 <html>
 <body>
 
