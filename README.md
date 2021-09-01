@@ -9,14 +9,13 @@
 
 - 🌱 I’m currently learning **Competitive Coder,Flutter,Apps**
 
-- 👯 I’m looking to collaborate on [🌟 You are all set!](https://youtu.be/Mt_uVI8pAPY)
+- 👯 I’m looking to collaborate on [https://programmingpirates.github.io/Dharmendra-solanki/]
 
-- 🤝 I’m looking for help with [🌟 You are all set!](https://youtu.be/Mt_uVI8pAPY)
+- 🤝 I’m looking for help with http://www.investopedia.study
 
 - 👨‍💻 All of my projects are available at [https://dharmendrasolankii.blogspot.com](https://dharmendrasolankii.blogspot.com)
 
-- 📝 I regularly write articles on [https://dharmendrasolankii.blogspot.com](https://dharmendrasolankii.blogspot.com)
-
+- 📝 I regularly write articles on http://www.dictionary.courses
 - 💬 Ask me about **React js**
 
 - 📫 How to reach me **Sodharmendra74@gmail.com**
