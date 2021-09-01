@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [https://programmingpirates.github.io/Dharmendra-solanki/]
 
-- 🤝 I’m looking for help with http://www.investopedia.study
+- 🤝 I’m looking for help with https://programmingpirates.github.io/Dharmendrasolanki
 
 - 👨‍💻 All of my projects are available at [https://dharmendrasolankii.blogspot.com](https://dharmendrasolankii.blogspot.com)
 
