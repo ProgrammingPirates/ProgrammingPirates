@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Competitive Coder,Flutter,Apps**
 
-- 👯 I’m looking to collaborate on [https://programmingpirates.github.io/Dharmendra-solanki/]
+- 👯 I’m looking to collaborate on https://vishal-raj-1.github.io/Awesome-JavaScript-Projects/
 
 - 🤝 I’m looking for help with https://programmingpirates.github.io/Dharmendrasolanki
 
