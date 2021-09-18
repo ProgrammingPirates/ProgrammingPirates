@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Competitive Coder,Flutter,Apps**
 
-- 👯 I’m looking to collaborate on https://vishal-raj-1.github.io/Awesome-JavaScript-Projects/
+
 
 - 🤝 I’m looking for help with https://programmingpirates.github.io/Dharmendrasolanki
 
@@ -23,6 +23,8 @@
 - 📄 Know about my experiences [https://dharmendrasolankii.blogspot.com](https://dharmendrasolankii.blogspot.com)
 
 - ⚡ Fun fact **I think i am learn every moment !**
+
+- 👯 I’m looking to collaborate on https://vishal-raj-1.github.io/Awesome-JavaScript-Projects/
 
 
 <h3 align="left">Languages and Tools:</h3>
