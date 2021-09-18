@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available at [https://dharmendrasolankii.blogspot.com](https://dharmendrasolankii.blogspot.com)
 
 - 📝 I regularly write articles on http://www.dictionary.courses
-- 💬 Ask me about **React js**
+- 💬 Ask me about https://programmingpirates.github.io/MyAllProjectWebsite/
 
 - 📫 How to reach me **Sodharmendra74@gmail.com**
 
