@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I think i am learn every moment !**
 
-- 👯 I’m looking to collaborate on https://vishal-raj-1.github.io/Awesome-JavaScript-Projects/
+-
 
 
 <h3 align="left">Languages and Tools:</h3>
