@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Co-vid Hospital managments](https://youtu.be/Mt_uVI8pAPY)
 
-- 🌱 I’m currently learning **Competitive Coder,Flutter,Apps**
+- 🌱 I’m currently learning **Competitive Coding,Flutter,React Js ,Android**
 
 
 
