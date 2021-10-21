@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmingpirates" alt="programmingpirates" /></a> </p>
 
-- 🔭 I’m currently working on [Co-vid Hospital managments](https://youtu.be/Mt_uVI8pAPY)
+- 🔭 I’m currently working on [Medicare_Hospital_Managments] For Avishkar_2021
 
 - 🌱 I’m currently learning **𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 𝗖𝗼𝗱𝗶𝗻𝗴,𝗙𝗹𝘂𝘁𝘁𝗲𝗿,𝗥𝗲𝗮𝗰𝘁 𝗝𝘀 ,𝗔𝗻𝗱𝗿𝗼𝗶𝗱**
 
