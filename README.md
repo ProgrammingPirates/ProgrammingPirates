@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharmendra Solanki</h1>
-<h3 align="center">𝕬 𝖕𝖆𝖘𝖘𝖎𝖔𝖓𝖆𝖙𝖊 𝖋𝖗𝖔𝖓𝖙𝖊𝖓𝖉 𝖉𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗,𝖇𝖆𝖈𝖐𝖊𝖓𝖉,𝕬𝖕𝖕𝖘 𝖉𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 𝖆𝖓𝖉 𝕮𝖔𝖒𝖕𝖊𝖙𝖎𝖙𝖎𝖛𝖊 𝕮𝖔𝖉𝖊𝖗 𝖋𝖗𝖔𝖒 𝕴𝖓𝖉𝖎𝖆</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmingpirates&label=Profile%20views&color=0e75b6&style=flat" alt="programmingpirates" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Medicare_Hospital_Managments] For Avishkar_2021
 
-- 🌱 I’m currently learning **𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 𝗖𝗼𝗱𝗶𝗻𝗴,𝗙𝗹𝘂𝘁𝘁𝗲𝗿,𝗥𝗲𝗮𝗰𝘁 𝗝𝘀 ,𝗔𝗻𝗱𝗿𝗼𝗶𝗱**
+- 🌱 I’m currently learning **𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 𝗖𝗼𝗱𝗶𝗻𝗴,𝗥𝗲𝗮𝗰𝘁 𝗝𝘀 ,𝗔𝗻𝗱𝗿𝗼𝗶𝗱**
 
 
 
