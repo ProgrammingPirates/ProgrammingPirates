@@ -13,14 +13,14 @@
 
 - 🤝 I’m looking for help with https://programmingpirates.github.io/Dharmendrasolanki
 
-- 👨‍💻 All of my projects are available at [https://dharmendrasolankii.blogspot.com](https://dharmendrasolankii.blogspot.com)
+- 👨‍💻 All of my projects are available at [Dharmendrasolanki](https://dharmendrasolankii.blogspot.com)
 
 - 📝 I regularly write articles on http://www.dictionary.courses
-- 💬 Ask me about https://programmingpirates.github.io/MyAllProjectWebsite/
+- 💬 Ask me about [My Portfolio](https://programmingpirates.github.io/MyAllProjectWebsite/)
 
 - 📫 How to reach me **Sodharmendra74@gmail.com**
 
-- 📄 Know about my experiences [https://dharmendrasolanki.netlify.app/](https://dharmendrasolanki.netlify.app/)
+- 📄 Know about my experiences [Portfolio](https://dharmendrasolanki.netlify.app/)
 
 - ⚡ Fun fact **I think i am learn every moment !**
 
