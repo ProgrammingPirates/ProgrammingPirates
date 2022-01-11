@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Sodharmendra74@gmail.com**
 
-- 📄 Know about my experiences [https://dharmendrasolankii.blogspot.com](https://dharmendrasolankii.blogspot.com)
+- 📄 Know about my experiences [Dharmendra]https://dharmendrasolanki.netlify.app/)
 
 - ⚡ Fun fact **I think i am learn every moment !**
 
