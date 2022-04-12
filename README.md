@@ -50,9 +50,17 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmingpirates&" alt="programmingpirates" /></p>
 
-                   <br><br> Vibing to : 🎧  </strong></p>
+  <div align="center" width="50">
+
+
+<p>
+<br><br> Vibing to : 🎧  </strong></p>
+
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31w4w6cl5ziojjy6rznbef3mgdoi) <br>
 
+
+
+</div>
 
 <hr></hr>
 
