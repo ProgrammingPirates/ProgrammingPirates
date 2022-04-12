@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmingpirates" alt="programmingpirates" /></a> </p>
 
-- 🔭 I’m currently working on [Coding Website] For Avishkar_2021
-
+- 🔭 I’m currently working on Collage Coding Website https://mnnitcoder.herokuapp.com/
 - 🌱 I’m currently learning **𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 𝗖𝗼𝗱𝗶𝗻𝗴,𝗥𝗲𝗮𝗰𝘁 𝗝𝘀 ,𝗔𝗻𝗱𝗿𝗼𝗶𝗱**
 
 
@@ -16,11 +15,11 @@
 - 👨‍💻 All of my projects are available at [Dharmendrasolanki](https://dharmendrasolankii.blogspot.com)
 
 - 📝 I regularly write articles on http://www.dictionary.courses
-- 💬 Ask me about [My Portfolio](https://programmingpirates.github.io/MyAllProjectWebsite/)
+
 
 - 📫 How to reach me **Sodharmendra74@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://dharmendrasolanki.netlify.app/)
+- 📄 Know about my experiences Portfolio(https://dharmendrasolanki.netlify.app/)
 
 - ⚡ Fun fact **I think i am learn every moment !**
 
