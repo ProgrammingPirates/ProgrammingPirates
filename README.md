@@ -2,9 +2,13 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
 </div>
 
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
-</div>
+
+<div align="center" width="50">
+
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> </div>
+  
+
 <h1 align="center">Hi 👋, I'm Dharmendra Solanki</h1>
 <h3 align="center"></h3>
 
@@ -46,7 +50,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmingpirates&" alt="programmingpirates" /></p>
 
-
+                   <br><br> Vibing to : 🎧  </strong></p>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31w4w6cl5ziojjy6rznbef3mgdoi) <br>
 
 
 <hr></hr>
