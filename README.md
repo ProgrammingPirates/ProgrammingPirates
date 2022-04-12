@@ -1,3 +1,10 @@
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
+
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
 <h1 align="center">Hi 👋, I'm Dharmendra Solanki</h1>
 <h3 align="center"></h3>
 
@@ -5,10 +12,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmingpirates" alt="programmingpirates" /></a> </p>
 
-- 🔭 I’m currently working on Collage Coding Website https://mnnitcoder.herokuapp.com/
 - 🌱 I’m currently learning **𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 𝗖𝗼𝗱𝗶𝗻𝗴,𝗥𝗲𝗮𝗰𝘁 𝗝𝘀 ,𝗔𝗻𝗱𝗿𝗼𝗶𝗱**
 
+- 🔭 I’m currently working on Collage Coding Website https://mnnitcoder.herokuapp.com
 
+ 
+- 📄 Know about my experiences Portfolio(https://dharmendrasolanki.netlify.app/)
+
+- 📝 I regularly write Blogs On-https://www.investopedia.study/
 
 - 🤝 I’m looking for help with https://programmingpirates.github.io/Dharmendrasolanki
 
@@ -17,9 +28,8 @@
 - 📝 I regularly write articles on http://www.dictionary.courses
 
 
-- 📫 How to reach me **Sodharmendra74@gmail.com**
+- 📫 How to reach me [**Linkedin**](https://www.linkedin.com/in/dharmendra-solanki-a72127206/)
 
-- 📄 Know about my experiences Portfolio(https://dharmendrasolanki.netlify.app/)
 
 - ⚡ Fun fact **I think i am learn every moment !**
 
@@ -31,6 +41,18 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmingpirates&show_icons=true&locale=en&layout=compact" alt="programmingpirates" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmingpirates&show_icons=true&locale=en" alt="programmingpirates" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmingpirates&" alt="programmingpirates" /></p>
+
+
+
+
+<hr></hr>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
+
+</div>
+
