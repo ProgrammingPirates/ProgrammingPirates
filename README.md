@@ -23,7 +23,7 @@
  
 - 📄 Know about my experiences Portfolio(https://dharmendrasolanki.netlify.app/)
 
-- 📝 I regularly write Blogs On-https://www.investopedia.study/
+- 📝 Amazing Gravitation Webstie -https://www.asareta.co/
 
 - 🤝 I’m looking for help with https://programmingpirates.github.io/Dharmendrasolanki
 
