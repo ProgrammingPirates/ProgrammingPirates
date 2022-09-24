@@ -27,7 +27,7 @@
 
 - 🤝 I’m looking for help with https://programmingpirates.github.io/Dharmendrasolanki
 
-- 👨‍💻 All of my projects are available at [Dharmendrasolanki](https://dharmendrasolankii.blogspot.com)
+- 👨‍💻 All of my projects are available at [Dharmendrasolanki](https://linktr.ee/dharmendra2k24)
 
 - 📝 I regularly write articles on http://www.dictionary.courses
 
