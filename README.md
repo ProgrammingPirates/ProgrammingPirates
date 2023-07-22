@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmingpirates" alt="programmingpirates" /></a> </p>
 
-- 🌱 I’m currently learning **𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 𝗖𝗼𝗱𝗶𝗻𝗴,𝗥𝗲𝗮𝗰𝘁 𝗝𝘀 ,𝗔𝗻𝗱𝗿𝗼𝗶𝗱**
+- 🌱 I’m currently learning **𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 Programming,𝗥𝗲𝗮𝗰𝘁 𝗝𝘀**
 
 - 🔭 I’m currently working on Collage Coding Website https://mnnitcoder.herokuapp.com
 
@@ -26,8 +26,7 @@
 - 📝 Amazing Gravitation Webstie -https://www.asareta.co/
 
 - 🤝 I’m looking for help with https://programmingpirates.github.io/Dharmendrasolanki
-
-- 👨‍💻 All of my projects are available at [Dharmendrasolanki](https://linktr.ee/dharmendra2k24)
+- All link Available [Dharmendrasolanki](https://linktr.ee/dharmendra2k24)
 
 - 📝 I regularly write articles on http://www.dictionary.courses
 
