@@ -16,9 +16,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmingpirates" alt="programmingpirates" /></a> </p>
 
-- 🌱 I’m currently learning **𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 Programming,𝗥𝗲𝗮𝗰𝘁 𝗝𝘀**
+- 🌱 I’m currently learning **Data Structure and Algorithm, Full Stack Development**
 
-- 🔭 I’m currently working on Collage Coding Website https://mnnitcoder.herokuapp.com
+- 🔭 Leetcode  [Leetcode](https://leetcode.com/u/Dharmendra2k24/)
 
  
 - 📄 Know about my experiences Portfolio(https://dharmendrasolanki.netlify.app/)
