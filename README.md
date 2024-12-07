@@ -19,6 +19,16 @@ Hi, I'm Dharmendra Solanki (@ProgrammingPirates) a tech enthusiast. I am current
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmingpirates" alt="programmingpirates" /></a> </p>
 
+## Achievements  
+- **First Place Winner**: Vividhata - NIT Hamirpur Overall Hackathon (1st Rank)  
+- **Finalist**: Morgan Stanley Code to Give Hackathon 2023  
+- **Finalist**: Flipkart Grid 5.0 Finalist 2023  
+- **Swag Awardee**: PrepBytes Coding 2021  
+- **Creative Use of Twilio**: BC Hacks Hackathon 2.0  
+- **Quiz Winner**: Google Developer Club 2 (Devfest 2021)  
+- **Top 100 Team**: Rakathon 2022 (out of 3500 teams)  
+- **SoloHackathon Winner**: DecHack 2021 (GDSC SNU)  
+
 - 🌱 I’m currently learning **Data Structure and Algorithm, Full Stack Development**
 
 - 🔭 Leetcode  [Leetcode](https://leetcode.com/u/Dharmendra2k24/)
@@ -77,7 +87,10 @@ Hi, I'm Dharmendra Solanki (@ProgrammingPirates) a tech enthusiast. I am current
 
 <img align="right" alt="programming" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="300" />
 
-
+## Positions of Responsibility  
+- **Web Team Member**: Alumni Association of MNNIT Allahabad (Since 2020)  
+- **Web Admin**: Green Club MNNIT (Since 2020)  
+- **Campus Ambassador**: HackerEarth (Since 2020)  
 - 🧑‍💻 Chapter Lead @**Revengg Under the Cyberquest At MNNIT Allahabad**
 
 - 📝 Technical Lead @**Department Coordinator At Avishkar mnnit**
